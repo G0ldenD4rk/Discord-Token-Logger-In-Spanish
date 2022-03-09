@@ -33,4 +33,4 @@ En YouTube hay varios tutoriales que nos enseñan a hacer esto =).
 
 # Contacto
 
-**GoldenDark#6040**
+Discord: **GoldenDark#6040**
