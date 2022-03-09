@@ -14,7 +14,7 @@ Ahora ya estamos listos para descargar el archivo **Source.py**, como se hace es
 
 ![image.png](https://github.com/G0ldenD4rk/Discord-Token-Grabber-Logger/blob/main/Code.PNG?raw=true/)
 
-Descomprimimos el archivo ZIP que nos dejo la descarga, los demas archivos podemos borrarlos, el unico que nos importa es el **Source.py**, a este archivo le daremos click derecho y aparecera una opcion llamada **Edit With IDLE** y elegimos la version que nos aparezca 
+Descomprimimos el archivo ZIP que nos dejo la descarga, los archivos .PNG (imagenes) podemos borrarlas tranquilamente, los unicos que nos importa son el **Source.py** y el **discord token login.txt**, al primer archivo (el .py) le daremos click derecho y aparecera una opcion llamada **Edit With IDLE** y elegimos la version que nos aparezca 
 
 ![image.png](https://github.com/G0ldenD4rk/Discord-Token-Grabber-Logger/blob/main/Edit.png?raw=true/)
 
