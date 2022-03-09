@@ -1,4 +1,4 @@
-# Discord-Token-Grabber-Logger
+# Discord-Token-Logger
 Un pequeño código editable creado en Python para poder sacar la Token de inicio de sesión de algún usuario de Discord.
 
 # ¿COMO LO USAMOS?
