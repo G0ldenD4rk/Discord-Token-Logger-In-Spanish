@@ -31,7 +31,7 @@ Una vez hecho esto lo unico que hacemos sera guardar el codigo. Y listo, tendria
 Si queremos hacer que ese codigo sea un archivo .exe lo unico que haremos sera instalar la siguiente herramienta: https://github.com/brentvollebregt/auto-py-to-exe
 En YouTube hay varios tutoriales que nos enseñan a hacer esto =).
 
-# **ACTUALIZACION
+# ACTUALIZACION
 
 Agregue un nuevo archivo llamado **token login script,txt**, **ESTE ARCHIVO NO LO DEBEMOS BORRAR, SOLO DEJAMOS EL SOURCE.PY Y EL .TXT**
 Para que sirve?:
