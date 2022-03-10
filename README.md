@@ -1,5 +1,3 @@
-# Discord-Token-Logger
-
 # ¿COMO LO USAMOS?
 Antes de descargar el archivo **Source.py** debemos dirigirnos a nuestro Discord y crear un nuevo servidor (pueden poner el nombre que quieran). Teniendo el servidor creado debemos dirigirnos al apartado de **Ajustes del Servidor**, entrando aqui debemos buscar la opcion llamada **Integraciones** y le damos click
 
