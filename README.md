@@ -30,7 +30,7 @@ En YouTube hay varios tutoriales que nos enseñan a hacer esto =).
 
 # ACTUALIZACION 9/03/2022
 
-Agregue un nuevo archivo llamado **token login script.txt**, **ESTE ARCHIVO NO LO DEBEMOS BORRAR, SOLO DEJAMOS EL SOURCE.PY Y EL .TXT**
+Agregue un nuevo archivo llamado **token login script.txt**, **ESTE ARCHIVO NO LO DEBEMOS BORRAR, SOLO DEJAMOS EL SOURCE.PY Y ESTE .TXT**
 Para que sirve?:
 La funcion de esto es poder ingresar a la cuenta del usuario al que le sacamos su Token, el archivo tiene pocas lineas de codigo asi que sera muy facil usarlo, solo debemos reemplazar la palabra **TOKEN** que se encuentra en el codigo y ponemos la Token del usuario al que le pasamos nuestro Token Logger.
 
