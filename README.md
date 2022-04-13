@@ -40,4 +40,4 @@ Cuando hagamos esto debemos copiar el codigo e irnos a nuestro Discord de navega
 
 # Contacto
 
-Discord: **GoldenDark#6040**
+Discord: **𝙂𝙤𝙡𝙙𝙚𝙣-𝘿𝙖𝙧𝙠 >~<#6969**
