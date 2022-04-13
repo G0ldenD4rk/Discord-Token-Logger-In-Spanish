@@ -37,7 +37,3 @@ La funcion de esto es poder ingresar a la cuenta del usuario al que le sacamos s
 ![image.png](https://raw.githubusercontent.com/G0ldenD4rk/Discord-Token-Logger/main/imagenes/txt.png)
 
 Cuando hagamos esto debemos copiar el codigo e irnos a nuestro Discord de navegador, alli presionaremos F12 (o click derecho e inspeccionar elemento), buscaremos la opcion llamada **Console** y alli pegaremos el codigo, cuando hagamos esto entraremos automaticamente a la cuenta del usuario al que le sacamos su Token. 
-
-# Contacto
-
-Discord: **𝙂𝙤𝙡𝙙𝙚𝙣-𝘿𝙖𝙧𝙠 >~<#6969**
