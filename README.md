@@ -15,7 +15,7 @@ Descomprimimos el archivo ZIP que nos dejo la descarga, la carpeta de **imagenes
 
 ![image.png](https://raw.githubusercontent.com/G0ldenD4rk/Discord-Token-Logger/main/imagenes/Edit.png)
 
-Cuando elijan esta opcion nos aparecera el codigo completo, lo que debemos hacer es deslizar el scroll hasta abajo del todo y buscar la palabra **WEBHOOK**
+Cuando elijan esta opcion nos aparecera el codigo completo, lo que debemos hacer es deslizar el scroll hasta abajo del todo y buscar la palabra **WEBHOOK** (Esto se encuentra en la línea 159 del codigo)
 
 ![image.png](https://raw.githubusercontent.com/G0ldenD4rk/Discord-Token-Logger/main/imagenes/WebHook.png)
 
